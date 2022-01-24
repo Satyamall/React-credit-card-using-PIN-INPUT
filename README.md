@@ -1,2 +1,2 @@
-# React-credit-card-using-PIN-INPUT
+# Input-Box-Using-Custom-Component-with-CopyPaste
 Created with CodeSandbox
